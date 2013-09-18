@@ -1,6 +1,8 @@
 Mplab
 =====
 
+Displaytech 64128N PIC18F4550
+
 This code is adapted for my GLCD Dysplaitech 64128N 
 I adapted this code :
 
